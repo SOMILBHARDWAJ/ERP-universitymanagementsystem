@@ -13,7 +13,7 @@ import javax.swing.*;
 public class Project extends JFrame implements ActionListener {
 
     Project() {
-        setSize(1500, 850);
+        setSize(1500, 859);
 
         ImageIcon I1 = new ImageIcon(ClassLoader.getSystemResource("icons/Third.jpg"));
         Image l2 = I1.getImage().getScaledInstance(1500, 750, Image.SCALE_DEFAULT);
