@@ -1,0 +1,17 @@
+- *Project Title:* University Management System ERP
+- *Technology Stack:*
+  - *Backend:* MySQL
+  - *Frontend:* Java (Swing & AWT)
+  - *IDE:* NetBeans
+  - *Libraries:* rsto XML
+- *Key Features:*
+  - Student and teacher management
+  - Examination details management
+  - Fee structure handling
+  - Leave tracking for students and teachers
+- *Learning Outcomes:*
+  - Enhanced understanding of Java and database management
+  - Improved user interface design skills
+- *Future Goals:*
+  - Build more innovative solutions
+  - Further enhance full-stack development skills
